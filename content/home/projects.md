@@ -1,14 +1,14 @@
 +++
 # Projects widget.
 widget = "projects"
-active = true
+active = false
 date = 2016-04-20T00:00:00
 
 title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 3
 
 # Content.
 # Display content from the following folder.
@@ -35,6 +35,10 @@ filter_default = 0
 [[filter]]
   name = "Deep Learning"
   tag = ".deep-learning"
+  
+[[filter]]
+  name = "Web Scraping"
+  tag = ".web-scraping"
 
 [[filter]]
   name = "Other"
