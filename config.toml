@@ -162,7 +162,7 @@ enableGitInfo = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["custom.css"]
   custom_js  = ["app.js"]
 
   # Publication types.
@@ -284,3 +284,8 @@ enableGitInfo = false
 # Configure the English version of the website.
 [Languages.en]
   languageCode = "en-us"
+
+# Set to true to disable code folding
+    disable_codefolding = false
+# Set to "hide" or "show" all codes by default
+    codefolding_show = "hide"
