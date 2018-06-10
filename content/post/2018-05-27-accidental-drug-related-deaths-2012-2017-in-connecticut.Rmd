@@ -116,7 +116,7 @@ drugs <- od %>%
 drugCount <- drugs %>%
   summarise(Heroin = sum(Heroin),
             Cocaine = sum(Cocaine),
-            nentanyl = sum(Fentanyl),
+            Fenentanyl = sum(Fentanyl),
             Oxycodone = sum(Oxycodone),
             Oxymorphone = sum(Oxymorphone),
             Etoh = sum(EtOH),
@@ -176,7 +176,7 @@ drugs5Loc <- drugs5 %>%
   summarize(nHeroin = sum(Heroin),
             nFentanyl = sum(Fentanyl),
             nCocaine = sum(Cocaine),
-            nVenzodiazepine = sum(Benzodiazepine),
+            nBenzodiazepine = sum(Benzodiazepine),
             nEtOh = sum(EtOH)) %>%
   gather(opioid, count, 2:6)
 
