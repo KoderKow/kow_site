@@ -15,7 +15,11 @@ table, th, td {
   border: 1px solid black;
 }
 
-/*code folding*/
+#navbar-main {
+  opacity: 0.9;
+}
+
+/* code fold */
 #code-folding-buttons {float: right;}
 #code-folding-buttons .pull-right > .dropdown-menu {
     right: 0;
