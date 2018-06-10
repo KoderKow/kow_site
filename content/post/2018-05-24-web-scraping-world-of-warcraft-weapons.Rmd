@@ -14,7 +14,7 @@ tags:
   - selenium
 header:
   caption: ''
-  image: ''
+  image: '/headers/wow_weapon_scraper_header.png'
 ---
 
 The main goal of this project was to learn how to use the R libraries rvest and RSelenium. The web scraping would be taking place on the website wowhead.com. There is about 10,000 rows of data to collect.

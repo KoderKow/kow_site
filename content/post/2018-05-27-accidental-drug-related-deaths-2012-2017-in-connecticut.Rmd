@@ -13,7 +13,7 @@ tags:
   - visualization
 header:
   caption: ''
-  image: ''
+  image: '/headers/opioid_overdose_header.png'
 output: 
   html_document
 ---
