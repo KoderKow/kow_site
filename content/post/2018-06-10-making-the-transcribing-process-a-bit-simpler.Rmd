@@ -6,8 +6,8 @@ slug: making-the-transcribing-process-a-bit-simpler
 categories:
   - research
   - data visualization
-  - IUPUI
-tags: [research, iupui, IUPUI, R, transciption, nlp]
+  - iupui
+tags: [research, iupui, iupui, r, transciption, nlp]
 header:
   caption: ''
   image: '/headers/transcription_process.png'
@@ -138,3 +138,4 @@ sbv_to_csv('C:...\\MVI_0115.sbv', '0115.csv')
 ```{r echo=FALSE}
 blogdown::shortcode('googleAdsense')
 ```
+\  

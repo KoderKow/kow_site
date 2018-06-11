@@ -4,14 +4,14 @@ author: Kyle Harris
 date: '2018-05-27'
 slug: accidental-drug-related-deaths
 categories:
-  - R
+  - r
   - data analysis
   - predictive model
 tags:
   - poisson
   - dplyr
   - visualization
-  - IUPUI
+  - iupui
 header:
   caption: ''
   image: '/headers/opioid_overdose_header.png'
@@ -516,3 +516,5 @@ To summarize our findings there is definite proof that overdose counts are on th
 ```{r echo=FALSE}
 blogdown::shortcode('googleAdsense')
 ```
+
+\  
