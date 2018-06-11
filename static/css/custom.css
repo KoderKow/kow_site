@@ -19,6 +19,13 @@ table, th, td {
   opacity: 0.9;
 }
 
+.article-banner {
+  width: 65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto
+}
+
 /* code fold */
 #code-folding-buttons {float: right;}
 #code-folding-buttons .pull-right > .dropdown-menu {
