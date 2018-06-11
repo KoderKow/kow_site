@@ -135,3 +135,6 @@ sbv_to_csv <- function(filepath, savename){
 sbv_to_csv('C:...\\MVI_0115.sbv', '0115.csv')
 ```
 
+```{r echo=FALSE}
+blogdown::shortcode('googleAdsense')
+```
