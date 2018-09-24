@@ -30,6 +30,6 @@ weight = 1
 
 # Hello!
 
-My name is Kyle Harris. I am senior at IUPUI. Completing a double major with a BS in Health Data Science and a BS in Informatics is on the horizon! My educational interests include data sceince, machine learning, and data visualization. I currently work with the data visualization research team at IUPUI as a research assistant. Over the summer I will be interning at ClusterTruck as a data scientist.
+My name is Kyle Harris. I am senior at IUPUI. Completing a double major with a BS in Health Data Science and a BS in Informatics is on the horizon! My educational interests include data sceince, machine learning, and data visualization. I currently work part time as a data scientist at ClusterTruck here in Indianapolis.
 
-My personal hobbies include spending time with my girlfriend Lexi, petting my cats, playing video games, studying/reading about data science and machine learning. My current goals are to graduate in Spring 2019 and get accepted into a masters program for data science and/or machine learning.
+My personal hobbies include spending time with my girlfriend Lexi, petting my cats, playing video games, studying/reading about data science and machine learning, and listening to audio books. My current goals are to graduate in Spring 2019 and start working after my undergrad. I am looking for a company that values education and will allow me to continue my education for a masters while putting the knowledge I have learned through my undergrad to good use for their business.

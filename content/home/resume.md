@@ -15,8 +15,8 @@ weight = 4
 
 +++
 
-*Last update: 04/24/2018*
+*Last update: 09/24/2018*
 
 Click below to view and download my current resume.  
 
-<a href="/files/Kyle_Harris_Resume_no_address_04-24-2018.pdf#" class="download" title="Download Resume" target="_blank">Download CV</a>
+<a href="/files/Kyle_Harris_Resume_no_address_09-24-2018.pdf#" class="download" title="Download Resume" target="_blank">Download CV</a>
