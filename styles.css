@@ -1,0 +1,21 @@
+func {
+  color: brown;
+  font-weight: bold;
+}
+
+data {
+  color: red;
+  font-weight: bold;
+}
+
+var {
+  color: blue;
+  font-weight: bold;
+}
+
+code {
+  background: #d8d8d8;
+  padding: 3px;
+  -moz-border-radius: 6px 6px 6px 6px;
+  border-radius: 6px 6px 6px 6px
+}
